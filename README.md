@@ -66,7 +66,3 @@ Conducting a security audit is crucial for maintaining business continuity and e
 ## Contributing
 
 Feel free to contribute to this project by submitting issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
